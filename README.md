@@ -1,13 +1,15 @@
 # ADVANCED REGRESSION ASSIGNMENT
 
-##SUBMITTED BY DR RANJEET SINGH MAHLA
+#SUBMITTED BY DR RANJEET SINGH MAHLA
+
 ##DATE FEBRUARY 22, 2023
+
 ## MSC MACHINE LEARNING AND ARTIFICIAL INTELLIGENCE 
 
 
 ### KEY FILES
-### Problem Statement1: jupyter notbook containing the assignment code (test train split and modelling with Lasso and Ridge)
-### data (train.csv file) and data description file
+### Problem Statement1: jupyter notbook containing the assignment code (test train split and modelling with Lasso and Ridge): Part1_advanced_regression_assignment_RSM.ipynb
+### data (train.csv file and data_description.txt) and data description file
 ### Problem Statement Part 2 (Questions Ashwers) pdf file: 
 
 ### 
