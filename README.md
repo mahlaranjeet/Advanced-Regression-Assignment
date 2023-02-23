@@ -120,5 +120,5 @@ The advanced regression project is creeated as part of MSC in AI and ML and as p
 
 
 ## Contact
-created by [@mahlaranjeet] feel free to contact me anytime at email given below
+created by [@mahlaranjeet] feel free to contact me at
 mahlaranjeet@gmail.com
