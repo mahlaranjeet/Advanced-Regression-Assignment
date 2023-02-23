@@ -27,7 +27,7 @@ The company wants to know:
     How well those variables describe the price of a house.
 
  
-lso, the optimal value of lambda for ridge and lasso regression needs to be determined.
+Also, the optimal value of lambda for ridge and lasso regression needs to be determined.
 
 ## Business Goal 
  
@@ -53,13 +53,14 @@ You are required to model the price of houses with the available independent var
 
 ### Steps 
 
-1) Reading, understanding and visualizing the data
+    1) Reading, understanding and visualizing the data
 
-2) Preparing the data for model training (train-test split, rescaling)
+    2) Preparing the data for model training (train-test split, rescaling)
 
-3) Training the model
+    3) Training the model
 
-4) Prediction and evaluation of the test set
+    4) Prediction and evaluation of the test set with Ridge and Lasso regularization
+    5) marking answers for assignment part 2
 
 
 
